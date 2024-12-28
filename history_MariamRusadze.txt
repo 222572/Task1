@@ -1,1 +1,2 @@
+546c155 - MariamRusadze - Initial history: adding history txt file
 29775c6 - MariamRusadze - Initial commit: creating project files
